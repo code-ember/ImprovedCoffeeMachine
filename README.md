@@ -1,4 +1,4 @@
-# VirtualCoffeeMachineSupercharge
+# ImprovedCoffeeMachine
 Using logical design with Java
 
 ## Introduction
