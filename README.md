@@ -1,4 +1,4 @@
-# ImprovedCoffeeMachine
+# Improved Coffee Machine
 Using logical design with Java
 
 ## Introduction
